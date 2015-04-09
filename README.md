@@ -18,5 +18,3 @@ mv the .vimrc & .vim/ into user_a directory
 now when you login as user_a, then vim every file can use this setting
 
 
-
-
