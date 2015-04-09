@@ -19,6 +19,4 @@ now when you login as user_a, then vim every file can use this setting
 
 1. sudo apt-get install git curl
 2. git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-3. use vim to any file and execute 
-   :BundleInstall
-   then install will start
+3. use vim to any file and execute **:BundleInstall** then install will start
